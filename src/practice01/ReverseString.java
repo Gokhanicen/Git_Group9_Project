@@ -1,6 +1,6 @@
 package practice01;
 
-public class Reverse {
+public class ReverseString {
     public static void main(String[] args) {
    String name ="Java";
    String reversed ="";
