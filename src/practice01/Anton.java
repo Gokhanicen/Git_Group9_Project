@@ -7,4 +7,5 @@ public class Anton {
 
 
     // This is my changes #1
+    // This is my changes #2
 }
